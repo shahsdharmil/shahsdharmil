@@ -3,9 +3,13 @@ Hi there 👋
 Myself Dharmil Shah
 
 🔭 I’m currently persuading B.tech in Computer Engineering
+
 🌱 I’m currently learning Web and AI techonolgies  
+
 📫 How to reach me: dharmilshah005@gmail.com
+
 ⚡ Fun fact: I'm just a crazy fan of crazy tech
+
 
 <!--
 **shahsdharmil/shahsdharmil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
