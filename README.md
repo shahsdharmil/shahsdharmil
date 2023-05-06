@@ -6,7 +6,10 @@ Myself Dharmil Shah
 
 🌱 I’m currently learning Web and AI techonolgies  
 
-📫 How to reach me: dharmilshah005@gmail.com
+📫 How to reach me: 
+Professional Email - shahsdharmil@gmail.com
+Linked In - https://www.linkedin.com/in/dharmil-shah-a2867625a/
+Personal Email - dharmilshah005@gmail.com
 
 ⚡ Fun fact: I'm just a crazy fan of crazy tech
 
