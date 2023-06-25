@@ -8,7 +8,7 @@ Myself Dharmil Shah
 
 📫 How to reach me: 
 - Professional Email - shahsdharmil@gmail.com
-Linked In - https://www.linkedin.com/in/dharmil-shah-a2867625a/
+- Linked In - https://www.linkedin.com/in/dharmil-shah-a2867625a/
 Personal Email - dharmilshah005@gmail.com
 
 ⚡ Fun fact: I'm just a crazy fan of crazy tech
