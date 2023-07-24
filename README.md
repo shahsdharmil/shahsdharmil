@@ -2,7 +2,7 @@ Hi there 👋
 
 Myself Dharmil Shah
 
-🔭 I’m currently persuading B.tech in Computer Engineering
+🔭 I’m currently persuading B.tech in Computer Engineering (7th Semester)
 
 🌱 I’m currently learning Web and AI techonolgies  
 
