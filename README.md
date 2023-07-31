@@ -12,7 +12,7 @@ Myself Dharmil Shah
 - Personal Email - dharmilshah005@gmail.com
 
 ⚡ Fun fact: I'm just a crazy fan of crazy tech
-🌱 I’m currently learning Blockchain Technologies
+
 
 <!--
 **shahsdharmil/shahsdharmil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,4 +27,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+🌱 I’m currently learning Blockchain Technologies
 -->
